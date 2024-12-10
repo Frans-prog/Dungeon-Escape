@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 5328e6ee76ee56d4f9f940c71ffd1f98
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 204
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772ab6ba8781fa47bdd7b42709b2171
+      internalID: -1192212235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 204
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a9d03bc43adf4d8c7681bf9bd4a21
+      internalID: 2026837027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 204
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53029215ab17ed541954d5a712d291a5
+      internalID: -1242496857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 204
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104a636ad1b4b64cacca310736e6929
+      internalID: -333608983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 205
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a06c2498231bb4faae88828ee3f111
+      internalID: 11055636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 206
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d27266b8f3196c4b988d99378efb9fd
+      internalID: -774802723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 204
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de248fdd47dde544a41f80df8f3b2bb
+      internalID: -507581525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 204
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42353476748af8b4fbf842e409dd8455
+      internalID: 1420789816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 178
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee8b54a57e224746a66421274a75b95
+      internalID: -641841349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 178
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6713585cdd4ee418d131a24f09ac54
+      internalID: 1276105084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 178
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26543354bdb4974b8bb77a31e328574
+      internalID: -56297215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 178
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e39522a72adfb549874d0f5e239ffe5
+      internalID: 1123265604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 179
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3bb82679116c46a66bf2f5e7e82f9
+      internalID: -596598188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 180
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dab4d5c5bbd9924fbbd3faa4f16cb14
+      internalID: 2087456917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 178
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7f6104f1f1e3c45a1f8c92c2211f5d
+      internalID: 851617216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 178
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beec4e56a30a26459bfcc527383c9a8
+      internalID: 2043600381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 155
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ae40fa07cb8b743b1c8c5c02ae2312
+      internalID: 1301867181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 155
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571d699703f4e743886561c0b795050
+      internalID: 1567622631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 155
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca021c6692d0888489cb5a021f228cfe
+      internalID: -1928742780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 155
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4990fcf196bdc5447b7602249d719b8b
+      internalID: -1903777537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfeac6d056249144aedb15ab68d3489
+      internalID: -1867464504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 157
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaedff86baff7d4996c56f5e65c96df
+      internalID: 1392261690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 155
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb343abbaacf1cc4eb56ef57711ef263
+      internalID: 386716456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_23
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 155
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d3e513a3ccfb4884fef0b36828c2c
+      internalID: 116220213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cb466d426d72a4b81e780c644b8c38
+      internalID: -183286169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d70f2dfa55bcd240bb3df38b9132bd5
+      internalID: 1644704665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cf4a9ccbb26474387c98371b1cb22b
+      internalID: -924912789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_27
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 129
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8957bfaf4b920594c839612bb6426307
+      internalID: -89207621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c0f3bf23c40154381b12b9e77ecd9b
+      internalID: -1040628880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 131
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5329fa02ad5bc4e9e153d87153266f
+      internalID: 1362220212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9426b6a01543c459896512d3bb0a8f
+      internalID: 2015833687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc771097f8c14499000317f877f388
+      internalID: -504262095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320e339cd3f9d9044b4ecd6598b1f616
+      internalID: 1809856071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 103
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eaa91a7127b1447aced6957607de3a
+      internalID: 1480491759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020146d20dd204b45a432993a01d8748
+      internalID: -2007955301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b3d89667469a4da176672a39d84f7
+      internalID: -591748849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48796b98e15d05b47adcca70e08b8703
+      internalID: 310844367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 105
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bfdd4c69122aa4b8706625ee0651a6
+      internalID: -1497593837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdd5e5b2a004f94faa9305c6ab7325f
+      internalID: 1541324528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527cf5a371846ed46987f15567b77061
+      internalID: 1838532670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 77
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abd9b0b5414da347b0fa23b3f695155
+      internalID: -2054349836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112f1759db864b459df87d440969eb0
+      internalID: -59954992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3173dc6222481d04db97af3cdebae402
+      internalID: -1556717935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23abcfc34f572c542b01d9e053308b06
+      internalID: 2096290545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60871198ea07d04d85ce338b3dbfa87
+      internalID: 1227063259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 79
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2375f3acd5e3fab40a7729995875b257
+      internalID: 969892170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 77
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ef45b0d81dab143b4a60a357996752
+      internalID: -932941645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_47
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 77
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e38663c5a7ee4ab03021d8a97c3e2
+      internalID: -1531660698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eed74e00fab8a54aa893681178362a4
+      internalID: 1122654906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa77ce9504bedbf4f90765bc79c7bf88
+      internalID: -2044098193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e587e3b6ce3cdb45a7c51c8956a7722
+      internalID: -1499683026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660fd016ad19a5245b589a0b15a10458
+      internalID: 1417606732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57409439f57704a46939bbcc3aca964b
+      internalID: 2113258339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f906af934ce5a84abaea5f91a40b751
+      internalID: -1298925999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 52
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8806cd25701625d4cb5a0591b0f5f328
+      internalID: 671781656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 52
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f34188dede9d148b4b36c43302a37e
+      internalID: -1467440852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 26
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9be499da264d4ea084f2f46ece5a0
+      internalID: -935923324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ae16277bf4964ba8cb8dd2ba2b61a
+      internalID: -43340860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 26
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442704f7bdfb3e4291b2be2decffe51
+      internalID: 1256939454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_59
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed746ef35b4434897a6417a1b98539
+      internalID: 1840722784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc7e485b0de2f448c31b02eb90377e
+      internalID: 888511494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8d04aa9d356cc4f8f3bfebf08d7ad1
+      internalID: 969773951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_62
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 26
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8506f6def91854b820b9365c0b8044
+      internalID: -99058456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 26
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d17a494844e27146a3a0c99af555b55
+      internalID: -1412848606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc11c4cc837085649b44c9ef571a66e5
+      internalID: -522688901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_65
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01bb556057d5c4bbddf5d3a3cd7937
+      internalID: -953012014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_66
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1bc956073c2394087b6362121d4760
+      internalID: -1582911689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933d5a46089ce147b4cafaa20ec72a2
+      internalID: -293866921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_68
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36847e1beefb0e84788c65661fc78192
+      internalID: -1858157605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9a40d594627a743b56ba58a0e5edcf
+      internalID: -1351961966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_70
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b5d9e60f7cefa4aae888c9727d2571
+      internalID: 5404587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ballimage_0004_layer-53_71
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d1c8158d58baf4f9a28c641a273090
+      internalID: -2069567352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ballimage_0004_layer-53_50: -1499683026
+      ballimage_0004_layer-53_48: 1122654906
+      ballimage_0004_layer-53_45: 969892170
+      ballimage_0004_layer-53_58: 1256939454
+      ballimage_0004_layer-53_17: 1567622631
+      ballimage_0004_layer-53_36: 310844367
+      ballimage_0004_layer-53_3: -333608983
+      ballimage_0004_layer-53_41: -59954992
+      ballimage_0004_layer-53_47: -1531660698
+      ballimage_0004_layer-53_26: -924912789
+      ballimage_0004_layer-53_13: 2087456917
+      ballimage_0004_layer-53_23: 116220213
+      ballimage_0004_layer-53_57: -43340860
+      ballimage_0004_layer-53_40: -2054349836
+      ballimage_0004_layer-53_53: -1298925999
+      ballimage_0004_layer-53_8: -641841349
+      ballimage_0004_layer-53_55: -1467440852
+      ballimage_0004_layer-53_27: -89207621
+      ballimage_0004_layer-53_61: 969773951
+      ballimage_0004_layer-53_66: -1582911689
+      ballimage_0004_layer-53_18: -1928742780
+      ballimage_0004_layer-53_0: -1192212235
+      ballimage_0004_layer-53_71: -2069567352
+      ballimage_0004_layer-53_69: -1351961966
+      ballimage_0004_layer-53_14: 851617216
+      ballimage_0004_layer-53_68: -1858157605
+      ballimage_0004_layer-53_51: 1417606732
+      ballimage_0004_layer-53_64: -522688901
+      ballimage_0004_layer-53_21: 1392261690
+      ballimage_0004_layer-53_28: -1040628880
+      ballimage_0004_layer-53_11: 1123265604
+      ballimage_0004_layer-53_33: 1480491759
+      ballimage_0004_layer-53_20: -1867464504
+      ballimage_0004_layer-53_37: -1497593837
+      ballimage_0004_layer-53_38: 1541324528
+      ballimage_0004_layer-53_24: -183286169
+      ballimage_0004_layer-53_56: -935923324
+      ballimage_0004_layer-53_49: -2044098193
+      ballimage_0004_layer-53_43: 2096290545
+      ballimage_0004_layer-53_46: -932941645
+      ballimage_0004_layer-53_2: -1242496857
+      ballimage_0004_layer-53_9: 1276105084
+      ballimage_0004_layer-53_19: -1903777537
+      ballimage_0004_layer-53_4: 11055636
+      ballimage_0004_layer-53_30: 2015833687
+      ballimage_0004_layer-53_34: -2007955301
+      ballimage_0004_layer-53_42: -1556717935
+      ballimage_0004_layer-53_54: 671781656
+      ballimage_0004_layer-53_60: 888511494
+      ballimage_0004_layer-53_29: 1362220212
+      ballimage_0004_layer-53_35: -591748849
+      ballimage_0004_layer-53_6: -507581525
+      ballimage_0004_layer-53_15: 2043600381
+      ballimage_0004_layer-53_59: 1840722784
+      ballimage_0004_layer-53_62: -99058456
+      ballimage_0004_layer-53_39: 1838532670
+      ballimage_0004_layer-53_32: 1809856071
+      ballimage_0004_layer-53_1: 2026837027
+      ballimage_0004_layer-53_31: -504262095
+      ballimage_0004_layer-53_70: 5404587
+      ballimage_0004_layer-53_25: 1644704665
+      ballimage_0004_layer-53_63: -1412848606
+      ballimage_0004_layer-53_5: -774802723
+      ballimage_0004_layer-53_52: 2113258339
+      ballimage_0004_layer-53_44: 1227063259
+      ballimage_0004_layer-53_7: 1420789816
+      ballimage_0004_layer-53_22: 386716456
+      ballimage_0004_layer-53_67: -293866921
+      ballimage_0004_layer-53_16: 1301867181
+      ballimage_0004_layer-53_12: -596598188
+      ballimage_0004_layer-53_10: -56297215
+      ballimage_0004_layer-53_65: -953012014
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
